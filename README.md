@@ -1,2 +1,2 @@
 # DrCode
-This is Hackathon Project
+This is a Hackathon Project
